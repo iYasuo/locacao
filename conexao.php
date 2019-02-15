@@ -1,4 +1,5 @@
 <?php
+	//teste
     $local = "localhost:3307";
     $usuario = "root";
     $senha = "usbw";
